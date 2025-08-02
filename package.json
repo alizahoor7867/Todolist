@@ -17,7 +17,8 @@
     "react-hot-toast": "^2.5.2",
     "react-icons": "^5.5.0",
     "react-spinners": "^0.17.0",
-    "tailwindcss": "^4.1.11"
+    "tailwindcss": "^4.1.11",
+    "values.js": "^2.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

@@ -20,7 +20,7 @@ const Inputcontroll = () => {
     }
 
     const isDuplicate = data.find(
-      (item) => item.name.toLowerCase() === name.toLowerCase() && item.id !== myid
+      (item) => item.name.toLowerCase() === name.toLowerCase() 
     );
     if (isDuplicate) {
       toast.error("you entered doblicate entry");
